@@ -43,36 +43,28 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+![Screenshot1](Screenshot 2025-02-08 164025.png) Opening page to select the location of the emergency
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+![Screenshot2](Screenshot 2025-02-08 164039.pnge) Add a small description of the emergency
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
-
-Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
-
+![Screenshot3](Screenshot 2025-02-08 164113.png) Choose a marked point to view what the emegency is and to delete if it is resolved
 
 Build Photos
-![Team](Add photo of your team here)
+![Team](team.jpg)
 
-![Components](Add photo of your components here) List out all components shown
+![Build](Work.jpg) Create code for the front and backend
 
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
+![Final](Screenshot 2025-02-08 164052.png) Final Product
 
 Project Demo
 Video
 [Add your demo video link here] Explain what the video demonstrates
 
-Additional Demos
-[Add any extra demo materials/links]
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+[Ameya Arul]: Backend
+[Saniya K S]: Frontend
+[Anjana Unnikrishnan]: Documentation and Presentation creation
 
 
 
