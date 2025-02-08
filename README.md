@@ -1,12 +1,13 @@
 # TinkHerHack
 Tinker Her Hack Project By Tech Girlies
-[Project Name] 🎯
+[SafeConnect] 🎯
 Basic Details
-Team Name: [Name]
+Team Name: [Tech Girlies]
 Team Members
 Member 1: Sania K S - GEC Kozhikode
 Member 2: Ameya Arul - GEC Kozhikode
 Member 3: Anjana Unnikrishnan - GEC Kozhikode
+
 Hosted Project Link
 [mention your project hosted project link here]
 
@@ -58,7 +59,7 @@ Build Photos
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+[demo.mp4] SafeConnect is a real-time emergency reporting system that allows users to mark incidents on an interactive map. Users can select a location, add a brief description of the emergency, and view or delete reports once resolved
 
 
 Team Contributions
