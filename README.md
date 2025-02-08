@@ -9,7 +9,7 @@ Member 2: Ameya Arul - GEC Kozhikode
 Member 3: Anjana Unnikrishnan - GEC Kozhikode
 
 Hosted Project Link
-[mention your project hosted project link here]
+[[mention your project hosted project link here](https://elaborate-buttercream-82711b.netlify.app/)]
 
 Project Description
 This project is a Leaflet-based Emergency Reporting System that allows users to mark emergency locations on an interactive map. The backend, built with Flask and SQLite, stores and retrieves emergency reports, enabling real-time updates and management of alerts.
